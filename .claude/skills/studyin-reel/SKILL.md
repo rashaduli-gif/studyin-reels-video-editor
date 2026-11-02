@@ -59,7 +59,7 @@ The same steps work in two places; only paths, setup, the browser and delivery d
    ```
    Read its summary: cut length, retakes dropped (check each listed one really is a repeat — the detector compares the first 4 words of nearby cues), detected countries. Then read `P\words.txt` (index, time on the cut timeline, word). Fix obvious SRT typos in your captions (not in the SRT).
 
-3. **Write `P\reel.json`** — the creative step. Format and a full worked example: `references/reel-format.md` and `references/example-part2.reel.json` (the approved Part 2 reel). Read both before writing. Guidelines:
+3. **Write `P\reel.json`** — the creative step. If the user pastes a beat plan / reel.json from their claude.ai Project ("Motion Video Project"), its times are SRT (source) times: save it as `P\plan.json` and run `node "$SKILL\scripts\remap.js" $P $P\plan.json`, then review the result against `words.txt` and fix anything off instead of writing from scratch. Otherwise write it yourself. Format and a full worked example: `references/reel-format.md` and `references/example-part2.reel.json` (the approved Part 2 reel). Read both before writing. Guidelines:
    - First phrase = the title (0 → ~2.1 s). Then one phrase per beat: questions, answers, numbers, steps, country names, CTA. Roughly one phrase every 2–4 s; it's fine to leave short gaps.
    - Each line's `at` = the time of the word it shows (from `words.txt`), so text lands as it's spoken. Phrase `e` ≈ next phrase start or a beat after its last line.
    - 1–3 lines per phrase, mixing sizes (small lead-in + big keyword). Highlight one or two words per phrase in colour; numbers go in pills; "?" as a `q` span; negatives can use `x` or a Cherry `ul` underline.
