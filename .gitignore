@@ -1,0 +1,6 @@
+node_modules/
+reels/
+inputs/
+*.mov
+*.MOV
+.hyperframes/

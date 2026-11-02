@@ -1,0 +1,775 @@
+{
+ "phrases": [
+  {
+   "s": 0,
+   "e": 2.1,
+   "lines": [
+    {
+     "spans": [
+      [
+       "WELCOME TO",
+       "sm p track"
+      ]
+     ],
+     "sfx": "swish"
+    },
+    {
+     "at": 0.6,
+     "spans": [
+      [
+       "STUDY ABROAD TALKS",
+       "bg w"
+      ]
+     ],
+     "sfx": "whoosh"
+    },
+    {
+     "at": 1.25,
+     "spans": [
+      [
+       "Part - 2",
+       "md pill-r"
+      ]
+     ],
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "s": 2.2,
+   "e": 4.4,
+   "lines": [
+    {
+     "spans": [
+      [
+       "গত video-তে",
+       "sm w"
+      ]
+     ]
+    },
+    {
+     "at": 3.5,
+     "spans": [
+      [
+       "Bachelor's Programme",
+       "md p"
+      ]
+     ],
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "s": 6.85,
+   "e": 8.8,
+   "lines": [
+    {
+     "spans": [
+      [
+       "কত",
+       "md w"
+      ]
+     ]
+    },
+    {
+     "at": 7.1,
+     "spans": [
+      [
+       "IELTS",
+       "bg c"
+      ],
+      [
+       " বা ",
+       "md w"
+      ],
+      [
+       "GPA",
+       "bg p"
+      ]
+     ],
+     "sfx": "pop"
+    },
+    {
+     "at": 8.4,
+     "spans": [
+      [
+       "লাগে?",
+       "md w"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 8.8,
+   "e": 11.55,
+   "lines": [
+    {
+     "spans": [
+      [
+       "আজকের প্রশ্ন",
+       "md w"
+      ],
+      [
+       "?",
+       "q"
+      ]
+     ]
+    },
+    {
+     "at": 10.25,
+     "spans": [
+      [
+       "GPA / IELTS",
+       "bg p"
+      ]
+     ],
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "s": 11.6,
+   "e": 14.95,
+   "lines": [
+    {
+     "spans": [
+      [
+       "একটু ",
+       "md w"
+      ],
+      [
+       "কম",
+       "md r ul"
+      ],
+      [
+       " থাকলে",
+       "md w"
+      ]
+     ],
+     "sfx": "swish"
+    },
+    {
+     "at": 14.1,
+     "spans": [
+      [
+       "সুযোগ আছে?",
+       "bg p"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 16.1,
+   "e": 17.4,
+   "lines": [
+    {
+     "spans": [
+      [
+       "হ্যাঁ!",
+       "xl g"
+      ]
+     ],
+     "sfx": "yes"
+    },
+    {
+     "at": 16.6,
+     "spans": [
+      [
+       "অবশ্যই আছে",
+       "md w"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 17.45,
+   "e": 19.1,
+   "lines": [
+    {
+     "spans": [
+      [
+       "HSC-তে GPA",
+       "md w"
+      ]
+     ]
+    },
+    {
+     "at": 18.5,
+     "spans": [
+      [
+       "একটু কম হলেও",
+       "sm g"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 19.15,
+   "e": 21.75,
+   "lines": [
+    {
+     "spans": [
+      [
+       "UK-তে",
+       "xl p"
+      ]
+     ],
+     "sfx": "whoosh"
+    },
+    {
+     "at": 19.55,
+     "spans": [
+      [
+       "Foundation",
+       "bg g"
+      ]
+     ],
+     "sfx": "riser"
+    },
+    {
+     "at": 20.25,
+     "spans": [
+      [
+       "Programme",
+       "md w"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 21.8,
+   "e": 23.95,
+   "lines": [
+    {
+     "spans": [
+      [
+       "minimum",
+       "sm g ul"
+      ]
+     ],
+     "sfx": "swish"
+    },
+    {
+     "at": 23.6,
+     "spans": [
+      [
+       "GPA",
+       "bg w"
+      ],
+      [
+       "3.0",
+       "bg pill-c"
+      ]
+     ],
+     "sfx": "ding"
+    }
+   ]
+  },
+  {
+   "s": 24,
+   "e": 27.4,
+   "lines": [
+    {
+     "spans": [
+      [
+       "IELTS-এ",
+       "bg w"
+      ]
+     ],
+     "sfx": "pop"
+    },
+    {
+     "at": 25.4,
+     "spans": [
+      [
+       "no band less than",
+       "sm g"
+      ]
+     ]
+    },
+    {
+     "at": 26.65,
+     "spans": [
+      [
+       "5.5 – 6",
+       "bg pill-c"
+      ]
+     ],
+     "sfx": "ding"
+    }
+   ]
+  },
+  {
+   "s": 27.45,
+   "e": 32.3,
+   "lines": [
+    {
+     "at": 27.95,
+     "spans": [
+      [
+       "IELTS score",
+       "md w"
+      ]
+     ]
+    },
+    {
+     "at": 30.5,
+     "spans": [
+      [
+       "কম",
+       "bg r"
+      ],
+      [
+       " বা ",
+       "md w"
+      ],
+      [
+       "নেই?",
+       "bg p"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 32.35,
+   "e": 34,
+   "lines": [
+    {
+     "spans": [
+      [
+       "Malaysia",
+       "xl w"
+      ]
+     ],
+     "sfx": "whoosh"
+    },
+    {
+     "at": 32.8,
+     "spans": [
+      [
+       "can be a good",
+       "sm c"
+      ],
+      [
+       " choice",
+       "md g"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 34,
+   "e": 36.4,
+   "lines": [
+    {
+     "at": 34.6,
+     "spans": [
+      [
+       "minimum GPA",
+       "md w"
+      ]
+     ]
+    },
+    {
+     "at": 35.9,
+     "spans": [
+      [
+       "3.0",
+       "bg pill-g"
+      ]
+     ],
+     "sfx": "ding"
+    }
+   ]
+  },
+  {
+   "s": 36.4,
+   "e": 38.15,
+   "lines": [
+    {
+     "spans": [
+      [
+       "IELTS",
+       "bg c"
+      ],
+      [
+       "",
+       "x"
+      ]
+     ]
+    },
+    {
+     "at": 37,
+     "spans": [
+      [
+       "এর কোন প্রয়োজন নেই",
+       "md w"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 38.75,
+   "e": 39.5,
+   "lines": [
+    {
+     "spans": [
+      [
+       "Australia",
+       "xl w"
+      ]
+     ],
+     "sfx": "whoosh"
+    }
+   ]
+  },
+  {
+   "s": 39.55,
+   "e": 40.5,
+   "lines": [
+    {
+     "spans": [
+      [
+       "Canada",
+       "xl w"
+      ]
+     ],
+     "sfx": "whoosh"
+    }
+   ]
+  },
+  {
+   "s": 40.55,
+   "e": 42.95,
+   "lines": [
+    {
+     "spans": [
+      [
+       "দুই দেশেই",
+       "sm w"
+      ]
+     ]
+    },
+    {
+     "at": 41.1,
+     "spans": [
+      [
+       "Pathway",
+       "xl g"
+      ]
+     ],
+     "sfx": "riser"
+    },
+    {
+     "at": 41.55,
+     "spans": [
+      [
+       "Programme",
+       "md p"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 43,
+   "e": 45.35,
+   "lines": [
+    {
+     "at": 43.45,
+     "spans": [
+      [
+       "GPA বা IELTS",
+       "md w"
+      ]
+     ]
+    },
+    {
+     "at": 44.7,
+     "spans": [
+      [
+       "কম",
+       "bg r ul"
+      ],
+      [
+       " থাকলে?",
+       "md w"
+      ]
+     ],
+     "sfx": "swish"
+    }
+   ]
+  },
+  {
+   "s": 45.4,
+   "e": 47.25,
+   "lines": [
+    {
+     "spans": [
+      [
+       "Direct admission",
+       "md c"
+      ]
+     ],
+     "sfx": "pop"
+    },
+    {
+     "at": 46.2,
+     "spans": [
+      [
+       "না পেলে?",
+       "bg w"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 47.3,
+   "e": 49.9,
+   "lines": [
+    {
+     "at": 47.75,
+     "spans": [
+      [
+       "Pathway Programmes",
+       "bg p"
+      ]
+     ],
+     "sfx": "whoosh"
+    },
+    {
+     "at": 48.9,
+     "spans": [
+      [
+       "explore করো",
+       "md g"
+      ]
+     ],
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "s": 49.95,
+   "e": 53.25,
+   "lines": [
+    {
+     "spans": [
+      [
+       "মনে রাখবে",
+       "sm g"
+      ]
+     ]
+    },
+    {
+     "at": 50.45,
+     "spans": [
+      [
+       "GPA ",
+       "md w"
+      ],
+      [
+       "কম",
+       "md r"
+      ],
+      [
+       " / IELTS ",
+       "md w"
+      ],
+      [
+       "কম",
+       "md r"
+      ]
+     ]
+    },
+    {
+     "at": 51.9,
+     "spans": [
+      [
+       "মানেই…",
+       "md w"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 53.3,
+   "e": 54.85,
+   "lines": [
+    {
+     "spans": [
+      [
+       "স্বপ্ন শেষ?",
+       "bg w"
+      ]
+     ]
+    },
+    {
+     "at": 54.1,
+     "spans": [
+      [
+       "না!",
+       "xl r"
+      ]
+     ],
+     "sfx": "impact"
+    }
+   ]
+  },
+  {
+   "s": 54.9,
+   "e": 57.25,
+   "lines": [
+    {
+     "spans": [
+      [
+       "right ",
+       "md w"
+      ],
+      [
+       "Programme",
+       "bg p"
+      ]
+     ],
+     "sfx": "pop"
+    },
+    {
+     "at": 55.9,
+     "spans": [
+      [
+       "+ right ",
+       "md w"
+      ],
+      [
+       "country",
+       "bg g"
+      ]
+     ],
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "s": 57.3,
+   "e": 59.2,
+   "lines": [
+    {
+     "at": 57.85,
+     "spans": [
+      [
+       "any more",
+       "md w"
+      ]
+     ]
+    },
+    {
+     "at": 58.3,
+     "spans": [
+      [
+       "questions",
+       "bg p"
+      ],
+      [
+       "?",
+       "q"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "s": 59.2,
+   "e": 61.3,
+   "lines": [
+    {
+     "spans": [
+      [
+       "book a",
+       "sm w"
+      ]
+     ]
+    },
+    {
+     "at": 59.6,
+     "spans": [
+      [
+       "FREE",
+       "bg pill-r"
+      ]
+     ],
+     "sfx": "sparkle"
+    },
+    {
+     "at": 59.85,
+     "spans": [
+      [
+       "consultation",
+       "md g"
+      ]
+     ],
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "s": 61.3,
+   "e": 63.3,
+   "lines": [
+    {
+     "spans": [
+      [
+       "with the expert of",
+       "sm w"
+      ]
+     ]
+    },
+    {
+     "at": 61.35,
+     "spans": [
+      [
+       "Bangladesh StudyIn",
+       "md c"
+      ]
+     ],
+     "sfx": "chime"
+    }
+   ]
+  }
+ ],
+ "flags": [
+  {
+   "code": "uk",
+   "s": 19.05,
+   "e": 21.6
+  },
+  {
+   "code": "my",
+   "s": 32.3,
+   "e": 34.8
+  },
+  {
+   "code": "au",
+   "s": 38.7,
+   "e": 39.55
+  },
+  {
+   "code": "ca",
+   "s": 39.55,
+   "e": 41
+  }
+ ],
+ "music": {
+  "src": "assets/music.wav",
+  "volume": 0.13
+ }
+}
