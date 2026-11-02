@@ -5,7 +5,7 @@ Edit a "Study Abroad Talks" reel from any device with Claude Code on the web.
 ## How to use (every new video)
 
 1. Upload the raw video and the voice-over SRT to Google Drive. Set sharing to **Anyone with the link**.
-2. Open **claude.ai/code**, pick this repository (`studyin-reels`) and your cloud environment.
+2. Open **claude.ai/code**, pick this repository (`rashaduli-gif/studyin-reels-video-editor`) and your cloud environment.
 3. Send something like:
 
    > Part 3 edit kore dao. Video: <Drive link> SRT: <Drive link>
